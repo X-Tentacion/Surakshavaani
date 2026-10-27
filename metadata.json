@@ -1,0 +1,8 @@
+{
+  "name": "SurakshaVaani",
+  "description": "Construction-site hazard reporting by voice in Indian languages. Gemini transcribes, translates and rates each report; tickets close only with a photo of the fix.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

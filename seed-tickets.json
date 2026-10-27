@@ -1,0 +1,266 @@
+[
+ {
+  "id": "ex101",
+  "code": "SV-101",
+  "seeded": true,
+  "seedAgeHours": 30,
+  "zone": "Tower B",
+  "category": "fall",
+  "severity": "high",
+  "status": "open",
+  "summary": "No edge protection by lift shaft, floor 5",
+  "english": "There is no edge protection near the lift shaft on Tower B, floor 5.",
+  "language": "Hindi",
+  "original": "टावर बी पाँचवीं मंज़िल पर लिफ्ट शाफ्ट के पास किनारे पर कोई सुरक्षा नहीं है।",
+  "action": "Barricade the shaft opening and fit edge protection before work resumes.",
+  "channel": "supervisor",
+  "reports": [
+   {
+    "ageHours": 30,
+    "channel": "supervisor",
+    "reporter": "Sunil",
+    "anonymous": false,
+    "language": "Hindi",
+    "original": "टावर बी पाँचवीं मंज़िल पर लिफ्ट शाफ्ट के पास किनारे पर कोई सुरक्षा नहीं है।",
+    "english": "There is no edge protection near the lift shaft on Tower B, floor 5."
+   },
+   {
+    "ageHours": 20,
+    "channel": "worker",
+    "reporter": "",
+    "anonymous": true,
+    "language": "Hindi",
+    "original": "लिफ्ट के गड्ढे के पास जाली नहीं है, डर लगता है।",
+    "english": "There is no net near the lift pit; it is frightening."
+   }
+  ]
+ },
+ {
+  "id": "ex104",
+  "code": "SV-104",
+  "seeded": true,
+  "seedAgeHours": 5,
+  "zone": "Tower A",
+  "category": "lifting",
+  "severity": "high",
+  "status": "open",
+  "summary": "Crane lifting without a signalman",
+  "english": "The crane operator is lifting without a signalman.",
+  "language": "Tamil",
+  "original": "கிரேன் ஆபரேட்டர் சிக்னல் மேன் இல்லாமல் தூக்குகிறார்.",
+  "action": "Pause lifts until a trained signalman is posted.",
+  "channel": "supervisor",
+  "reports": [
+   {
+    "ageHours": 5,
+    "channel": "supervisor",
+    "reporter": "Murugan",
+    "anonymous": false,
+    "language": "Tamil",
+    "original": "கிரேன் ஆபரேட்டர் சிக்னல் மேன் இல்லாமல் தூக்குகிறார்.",
+    "english": "The crane operator is lifting without a signalman."
+   }
+  ]
+ },
+ {
+  "id": "ex107",
+  "code": "SV-107",
+  "seeded": true,
+  "seedAgeHours": 2,
+  "zone": "Site roads & gate",
+  "category": "struck",
+  "severity": "medium",
+  "status": "open",
+  "summary": "Trucks reversing at gate unguided",
+  "english": "Trucks are reversing near the gate with no one guiding them.",
+  "language": "Odia",
+  "original": "ଗେଟ୍ ପାଖରେ ଟ୍ରକ୍ ପଛକୁ ଯାଉଛି, କେହି ଗାଇଡ୍ କରୁନାହାନ୍ତି।",
+  "action": "Post a banksman at the gate for all reversing vehicles.",
+  "channel": "worker",
+  "reports": [
+   {
+    "ageHours": 2,
+    "channel": "worker",
+    "reporter": "",
+    "anonymous": true,
+    "language": "Odia",
+    "original": "ଗେଟ୍ ପାଖରେ ଟ୍ରକ୍ ପଛକୁ ଯାଉଛି, କେହି ଗାଇଡ୍ କରୁନାହାନ୍ତି।",
+    "english": "Trucks are reversing near the gate with no one guiding them."
+   }
+  ]
+ },
+ {
+  "id": "ex102",
+  "code": "SV-102",
+  "seeded": true,
+  "seedAgeHours": 50,
+  "seedFixHours": 3,
+  "zone": "Basement & excavation",
+  "category": "electrical",
+  "severity": "high",
+  "status": "fixed",
+  "summary": "Untaped wire joint lying in water",
+  "english": "The wire joint near the pump has no tape and is lying in water.",
+  "language": "Bhojpuri",
+  "original": "पंप के पास तार के जोड़ पर टेप नइखे, पानी में पड़ल बा।",
+  "action": "Isolate the pump circuit and replace the joint with a sealed connector.",
+  "channel": "worker",
+  "fixNote": "Joint replaced with sealed connector, cable raised on hooks.",
+  "reports": [
+   {
+    "ageHours": 50,
+    "channel": "worker",
+    "reporter": "",
+    "anonymous": true,
+    "language": "Bhojpuri",
+    "original": "पंप के पास तार के जोड़ पर टेप नइखे, पानी में पड़ल बा।",
+    "english": "The wire joint near the pump has no tape and is lying in water."
+   }
+  ]
+ },
+ {
+  "id": "ex103",
+  "code": "SV-103",
+  "seeded": true,
+  "seedAgeHours": 40,
+  "seedFixHours": 1.5,
+  "zone": "Scaffolding yard",
+  "category": "ppe",
+  "severity": "medium",
+  "status": "fixed",
+  "summary": "Six new workers without helmets",
+  "english": "New workers have not been given helmets; six people are without them.",
+  "language": "Hinglish",
+  "original": "Naye labour ko helmet nahi mila, 6 log bina helmet ke.",
+  "action": "Issue helmets from store before the next shift.",
+  "channel": "supervisor",
+  "fixNote": "Six helmets issued from store.",
+  "reports": [
+   {
+    "ageHours": 40,
+    "channel": "supervisor",
+    "reporter": "Ajay",
+    "anonymous": false,
+    "language": "Hinglish",
+    "original": "Naye labour ko helmet nahi mila, 6 log bina helmet ke.",
+    "english": "New workers have not been given helmets; six people are without them."
+   }
+  ]
+ },
+ {
+  "id": "ex105",
+  "code": "SV-105",
+  "seeded": true,
+  "seedAgeHours": 72,
+  "seedFixHours": 6,
+  "zone": "Labour camp",
+  "category": "heat",
+  "severity": "medium",
+  "status": "fixed",
+  "summary": "Camp water tank empty in afternoon",
+  "english": "The water tank at the camp is empty; there is no water in the afternoon.",
+  "language": "Bengali",
+  "original": "ক্যাম্পে জলের ট্যাংক খালি, দুপুরে জল নেই।",
+  "action": "Refill the tank and schedule a second afternoon fill.",
+  "channel": "worker",
+  "fixNote": "Tank refilled; second daily fill added at 1 pm.",
+  "reports": [
+   {
+    "ageHours": 72,
+    "channel": "worker",
+    "reporter": "",
+    "anonymous": true,
+    "language": "Bengali",
+    "original": "ক্যাম্পে জলের ট্যাংক খালি, দুপুরে জল নেই।",
+    "english": "The water tank at the camp is empty; there is no water in the afternoon."
+   }
+  ]
+ },
+ {
+  "id": "ex106",
+  "code": "SV-106",
+  "seeded": true,
+  "seedAgeHours": 120,
+  "seedFixHours": 4,
+  "zone": "Tower B",
+  "category": "fall",
+  "severity": "high",
+  "status": "fixed",
+  "summary": "Torn safety net by staircase, floor 3",
+  "english": "The safety net near the staircase on Tower B, floor 3, is torn.",
+  "language": "Hindi",
+  "original": "टावर बी तीसरी मंज़िल पर सीढ़ी के पास जाली फटी है।",
+  "action": "Replace the net section and inspect nets on all floors.",
+  "channel": "supervisor",
+  "fixNote": "Net section replaced.",
+  "reports": [
+   {
+    "ageHours": 120,
+    "channel": "supervisor",
+    "reporter": "Sunil",
+    "anonymous": false,
+    "language": "Hindi",
+    "original": "टावर बी तीसरी मंज़िल पर सीढ़ी के पास जाली फटी है।",
+    "english": "The safety net near the staircase on Tower B, floor 3, is torn."
+   }
+  ]
+ },
+ {
+  "id": "ex108",
+  "code": "SV-108",
+  "seeded": true,
+  "seedAgeHours": 96,
+  "seedFixHours": 2,
+  "zone": "Basement & excavation",
+  "category": "collapse",
+  "severity": "high",
+  "status": "fixed",
+  "summary": "Soil heap too close to pit edge",
+  "english": "The soil heap has been placed too close to the excavation edge.",
+  "language": "Odia",
+  "original": "ଖୋଳା ଗାତ ପାଖରେ ମାଟି ଗଦା ବହୁତ ପାଖରେ ରଖାଯାଇଛି।",
+  "action": "Move spoil at least 1 m back from the edge.",
+  "channel": "supervisor",
+  "fixNote": "Spoil moved back 1.5 m.",
+  "reports": [
+   {
+    "ageHours": 96,
+    "channel": "supervisor",
+    "reporter": "Bikash",
+    "anonymous": false,
+    "language": "Odia",
+    "original": "ଖୋଳା ଗାତ ପାଖରେ ମାଟି ଗଦା ବହୁତ ପାଖରେ ରଖାଯାଇଛି।",
+    "english": "The soil heap has been placed too close to the excavation edge."
+   }
+  ]
+ },
+ {
+  "id": "ex109",
+  "code": "SV-109",
+  "seeded": true,
+  "seedAgeHours": 200,
+  "seedFixHours": 8,
+  "zone": "Tower B",
+  "category": "fall",
+  "severity": "medium",
+  "status": "fixed",
+  "summary": "Shaft cover removed, floor 7",
+  "english": "The cover over the open shaft on Tower B, floor 7, has been removed.",
+  "language": "Hinglish",
+  "original": "Tower B floor 7 pe open shaft ka cover hata hua hai.",
+  "action": "Refit and fix the cover so it cannot be lifted off.",
+  "channel": "supervisor",
+  "fixNote": "Cover refitted and bolted.",
+  "reports": [
+   {
+    "ageHours": 200,
+    "channel": "supervisor",
+    "reporter": "Sunil",
+    "anonymous": false,
+    "language": "Hinglish",
+    "original": "Tower B floor 7 pe open shaft ka cover hata hua hai.",
+    "english": "The cover over the open shaft on Tower B, floor 7, has been removed."
+   }
+  ]
+ }
+]
